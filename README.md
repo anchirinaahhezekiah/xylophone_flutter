@@ -25,11 +25,11 @@ Welcome to the **Xylophone App**, a fun and interactive Flutter application that
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/xylophone-app.git
+   git clone https://github.com/anchirinaahhezekiah/xylophone_app.git
    ```
 2. **Navigate to the Project**:  
    ```bash
-   cd xylophone-app
+   cd xylophone_app
    ```
 3. **Run the App**:  
    Ensure you have Flutter installed, then run:
